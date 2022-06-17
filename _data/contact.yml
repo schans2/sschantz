@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: samuel-schantz-95649b17b
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: schans2
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: sschantz
 
 #The email you'd like people to contact you with.
-email: /
+email: sschantz@jahnelgroup.com

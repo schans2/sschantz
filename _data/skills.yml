@@ -1,34 +1,34 @@
-header: Say something about what you're good at
+header: Two things matter above all in IT - <b>People</b> and <b>Processes</b>.
 
-subheader: Give some more context
+subheader: I believe the value of software is best measured in terms of how many people find it helpful and how many facets of day-to-day work, life, etc. it's helpul in. I enrolled in the ITWS program at RPI not just to learn web development, but to develop the necessary skillsets for <i>valuable</i> web development.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: From Plain English...
+    description: I understand that the best software is not just written <i>for</i> the customer, but <i>alongside</i> the customer. I'll gladly listen to your business requirements and can then conceptualize a high-level design to meet them while explaining what resouces may be required from your end.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: ...To Code...
+    description: Having experience with several programming languages and tech stacks, I'll then know the best tools for the job of turning your visions and their high-level design into reality.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: ...and Back Again!
+    description: Throughout the development process, I'll be more than receptive to feedback. I can explain the feasability of requested features or tweaks in a manner that won't leave you scratching your head.
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: Hopefully
     topics:
       - Topic 1A
       - Topic 1B
       - Topic 1C
       - Topic 1D
 
-  - name: Certification 2
+  - name: Sometime
     topics:
       - Topic 2A
       - Topic 2B
       - Topic 2C
       - Topic 2D
 
-  - name: Certification 3
+  - name: Soon!
     topics:
       - Topic 3A
       - Topic 3B

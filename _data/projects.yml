@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Order-Processing System
+  description: Done for <a href="https://www.nextadvance.com/">Next Advance</a> in Troy, NY, this AMP stack internal web application managed the statuses of customer orders, allowing for those at the company to easily query them for relevant information when answering sales calls or emails. I was responsible for regularly consulting with my co-workers to tailor the software to fit their needs, whether that be in terms of additional features or user interface tweaks.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Cyberattack Vector Tree
+  description: Done with a team for <a href="https://www.deloittedigital.com/">Deloitte Digital</a> as part of my ITWS capstone project, this MERN stack solution was designed to brief remote employees about cybersecurity threats they may experience in their new (at the time due to COVID) workflows. Per Deloitte's requests, notable features implemented included a tree-like structure that illustrated causes and effects of a cyberattack playing out, compliance monitoring to ensure employees viewed each attack vector and answered questions about it, and scalability so Deloitte could potentially recommend the software to its clients in addition to using it internally.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Land Contract Management System
+  description: Done with a team for <a href="https://www.keycaptureenergy.com/">Key Capture Energy</a> in Albany, NY as part of my Managing IT Resources ITWS project, this Laravel application allowed the firm to simplify their processes of entering new land contracts and querying through specific fields of contracts, both of which were previously done fully manually using spreadsheets. As part of this project, my teammates and I constructed a report outlining the project's financial viability and ROI using the Triple Constraint principles of project management. Additionally, during the development of this project, the COVID-19 pandemic hit, providing experience transitioning from an in-person workflow to a remote one and adjusting our scope accordingly.
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Genericon Website
+  description: During a couple of my years at RPI, I served as Website Coordinator for Genericon, a student-run gaming and anime convention hosted annually on campus. Based in Wordpress, I was responsible for ensuring the site stayed secure and was regularly updated with pertinent information given to me from other club officers.
